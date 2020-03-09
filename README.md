@@ -27,42 +27,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### UX Experince and Challenges
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For the purpose of the demo I went for a straight forward form with the neccesary fields required to submit the field data.
+I used the a custom bootstrap theme as my css framework to handle my layout and components. I used these these very same base components to create a reusable modern alert notficationn that appears under the navbar after you submit the data rather than go with a modal that breaks the immersion of the experience. The aim is to create a seamless expereince without comporomising on the information that the user needs to know or rather what actions they are doing.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+I've created a simple Table compononent beneath the form to illustrtate the data being submitted through a mock API. I struggled to understand and get Umbraco running in time for the submission of the assessment so as per Riaans suggestion I just went with a simple JSON file that acts as my mock API but to illustrate that I have an understanding of the concept of creating a service and consuming an API. I've created the shell of a service that is ready to consume any endpoint and work with the data that comes back. 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+My common practices would also to be to ensure that I create propTypes to assist me in avoiding consuming unexpected data types, for the purposes of this assessment I have not employed the dependency. I also would rather use typescript to assist in writing the best possible javascript code but this was not a requirement for the assessment.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
