@@ -1,7 +1,7 @@
 {
   "name": "league-technical-assessment",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
@@ -10,7 +10,7 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://github.com/Thapelo1/league-digital-tech-assessment",
+  "homepage": "https://github.com/Thapelo1/league-digital-tech-assessment/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
