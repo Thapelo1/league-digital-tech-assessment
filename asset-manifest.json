@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Thapelo1/league-digital-tech-assessment/static/css/main.15cc8aa6.chunk.css",
+    "main.js": "/Thapelo1/league-digital-tech-assessment/static/js/main.53109c6e.chunk.js",
+    "main.js.map": "/Thapelo1/league-digital-tech-assessment/static/js/main.53109c6e.chunk.js.map",
+    "runtime-main.js": "/Thapelo1/league-digital-tech-assessment/static/js/runtime-main.acac8d36.js",
+    "runtime-main.js.map": "/Thapelo1/league-digital-tech-assessment/static/js/runtime-main.acac8d36.js.map",
+    "static/js/2.fb39de4a.chunk.js": "/Thapelo1/league-digital-tech-assessment/static/js/2.fb39de4a.chunk.js",
+    "static/js/2.fb39de4a.chunk.js.map": "/Thapelo1/league-digital-tech-assessment/static/js/2.fb39de4a.chunk.js.map",
+    "index.html": "/Thapelo1/league-digital-tech-assessment/index.html",
+    "precache-manifest.821165d6c66dcddfa0b224a95945a6d3.js": "/Thapelo1/league-digital-tech-assessment/precache-manifest.821165d6c66dcddfa0b224a95945a6d3.js",
+    "service-worker.js": "/Thapelo1/league-digital-tech-assessment/service-worker.js",
+    "static/css/main.15cc8aa6.chunk.css.map": "/Thapelo1/league-digital-tech-assessment/static/css/main.15cc8aa6.chunk.css.map",
+    "static/js/2.fb39de4a.chunk.js.LICENSE.txt": "/Thapelo1/league-digital-tech-assessment/static/js/2.fb39de4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acac8d36.js",
+    "static/js/2.fb39de4a.chunk.js",
+    "static/css/main.15cc8aa6.chunk.css",
+    "static/js/main.53109c6e.chunk.js"
+  ]
+}
